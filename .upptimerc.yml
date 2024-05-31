@@ -14,8 +14,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
   logoUrl: https://cdn.forums.sgi.sh/assets/nodes/sgug-node-1.png
-  name: SGI User Group Status Page
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: SGI User Group Status
+  introTitle: "**SGUG** is the premier Silicon Graphics enthusiast and developer community."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
@@ -23,5 +23,11 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
