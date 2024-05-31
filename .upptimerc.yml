@@ -15,8 +15,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /statuspage
+  cname: status.sgi.sh
+  # baseUrl: /statuspage
   logoUrl: https://cdn.forums.sgi.sh/assets/nodes/sgug-node-1.png
   name: SGI User Group Status
   introTitle: "**SGUG** is the premier Silicon Graphics enthusiast and developer community."
