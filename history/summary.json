@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 562,
-    "timeWeek": 548,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "time": 531,
+    "timeDay": 539,
+    "timeWeek": 531,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://sgug-uat.dstancu.xyz/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/sgug-uat.dstancu.xyz.ico",
     "slug": "sgug-forums-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 434,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
-    "dailyMinutesDown": {}
+    "time": 409,
+    "timeDay": 417,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "RSE Yum Repository (0.0.7)",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 538,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "time": 540,
+    "timeDay": 540,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   }
 ]
