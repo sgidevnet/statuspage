@@ -22,19 +22,19 @@
     "url": "https://sgug-uat.dstancu.xyz/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/sgug-uat.dstancu.xyz.ico",
     "slug": "sgug-forums-uat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 417,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "status": "up",
+    "uptime": "97.74%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "97.74%",
+    "time": 387,
+    "timeDay": 392,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-06-01": 0
+      "2024-06-01": 37
     }
   },
   {
