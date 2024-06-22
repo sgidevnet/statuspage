@@ -5,8 +5,8 @@ repo: statuspage # The name of this repository
 sites:
   - name: SGUG Forums
     url: https://forums.sgi.sh
-  - name: SGUG Forums (UAT)
-    url: https://sgug-uat.dstancu.xyz/index.php
+  # - name: SGUG Forums (UAT)
+  #   url: https://sgug-uat.dstancu.xyz/index.php
   - name: RSE Yum Repository (0.0.7)
     url: https://ports.sgi.sh/repo/0.0.7/repodata/repomd.xml
   - name: RSE Yum Repository (0.0.5)
