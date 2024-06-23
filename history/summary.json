@@ -4,18 +4,20 @@
     "url": "https://forums.sgi.sh",
     "icon": "https://icons.duckduckgo.com/ip3/forums.sgi.sh.ico",
     "slug": "sgug-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 572,
-    "timeWeek": 603,
-    "timeMonth": 601,
-    "timeYear": 601,
-    "dailyMinutesDown": {}
+    "time": 600,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 600,
+    "timeYear": 600,
+    "dailyMinutesDown": {
+      "2024-06-23": 0
+    }
   },
   {
     "name": "RSE Yum Repository (0.0.7)",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 556,
-    "timeWeek": 597,
+    "timeDay": 575,
+    "timeWeek": 596,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {}
