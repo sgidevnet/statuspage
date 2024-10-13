@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forums.sgi.sh.ico",
     "slug": "sgug-forums",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 523,
-    "timeDay": 521,
-    "timeWeek": 516,
-    "timeMonth": 523,
+    "timeDay": 459,
+    "timeWeek": 515,
+    "timeMonth": 522,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2024-07-11": 105,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-7",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.26%",
+    "uptimeDay": "0.68%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "99.26%",
     "time": 618,
-    "timeDay": 664,
-    "timeWeek": 688,
-    "timeMonth": 631,
+    "timeDay": 0,
+    "timeWeek": 664,
+    "timeMonth": 630,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-10-12": 0
+      "2024-10-13": 52,
+      "2024-10-12": 1378
     }
   },
   {
@@ -48,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-5",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.26%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "99.26%",
     "time": 155,
-    "timeDay": 144,
-    "timeWeek": 155,
-    "timeMonth": 152,
+    "timeDay": 0,
+    "timeWeek": 156,
+    "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-10-12": 0
+      "2024-10-13": 52,
+      "2024-10-12": 1378
     }
   }
 ]
