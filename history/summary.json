@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.62%",
     "uptimeMonth": "96.25%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 528,
-    "timeDay": 461,
-    "timeWeek": 501,
-    "timeMonth": 491,
+    "timeDay": 523,
+    "timeWeek": 504,
+    "timeMonth": 490,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2025-10-09": 543,
@@ -36,19 +36,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-7",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.25%",
-    "time": 368,
-    "timeDay": 423,
-    "timeWeek": 388,
-    "timeMonth": 383,
-    "timeYear": 363,
+    "uptimeYear": "99.52%",
+    "time": 367,
+    "timeDay": 404,
+    "timeWeek": 391,
+    "timeMonth": 382,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-10-16": 1113,
-      "2024-10-15": 1440
+      "2024-10-16": 1113
     }
   },
   {
@@ -57,19 +56,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-5",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.52%",
     "time": 107,
-    "timeDay": 70,
-    "timeWeek": 120,
+    "timeDay": 127,
+    "timeWeek": 118,
     "timeMonth": 121,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-10-16": 1113,
-      "2024-10-15": 1440
+      "2024-10-16": 1113
     }
   }
 ]
