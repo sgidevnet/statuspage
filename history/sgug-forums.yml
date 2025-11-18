@@ -1,7 +1,7 @@
 url: https://forums.sgi.sh
-status: up
-code: 200
-responseTime: 656
-lastUpdated: 2025-11-18T12:33:50.693Z
+status: down
+code: 500
+responseTime: 223
+lastUpdated: 2025-11-18T13:28:36.974Z
 startTime: 2024-05-31T00:13:29.896Z
 generator: Upptime <https://github.com/upptime/upptime>
