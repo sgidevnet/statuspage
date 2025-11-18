@@ -6,12 +6,12 @@
     "slug": "sgug-forums",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "3.80%",
     "uptimeWeek": "16.54%",
     "uptimeMonth": "80.80%",
     "uptimeYear": "97.77%",
     "time": 526,
-    "timeDay": 557,
+    "timeDay": 552,
     "timeWeek": 565,
     "timeMonth": 545,
     "timeYear": 526,
@@ -39,19 +39,19 @@
     "url": "https://ports.sgi.sh/repo/0.0.7/repodata/repomd.xml",
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 371,
-    "timeDay": 362,
-    "timeWeek": 516,
+    "timeDay": 365,
+    "timeWeek": 517,
     "timeMonth": 426,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-11-18": 45
+      "2025-11-18": 46
     }
   },
   {
@@ -59,19 +59,19 @@
     "url": "https://ports.sgi.sh/repo/0.0.5/repodata/repomd.xml",
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 119,
+    "timeDay": 121,
     "timeWeek": 175,
     "timeMonth": 147,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-11-18": 45
+      "2025-11-18": 46
     }
   }
 ]
