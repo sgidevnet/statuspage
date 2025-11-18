@@ -1,7 +1,7 @@
 url: https://ports.sgi.sh/repo/0.0.5/repodata/repomd.xml
-status: down
-code: 500
-responseTime: 5
-lastUpdated: 2025-11-18T14:15:39.582Z
+status: up
+code: 200
+responseTime: 189
+lastUpdated: 2025-11-18T14:50:43.242Z
 startTime: 2024-05-31T19:21:39.675Z
 generator: Upptime <https://github.com/upptime/upptime>
