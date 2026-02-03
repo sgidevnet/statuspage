@@ -60,19 +60,19 @@
     "url": "https://ports.sgi.sh/repo/0.0.5/repodata/repomd.xml",
     "icon": "https://icons.duckduckgo.com/ip3/ports.sgi.sh.ico",
     "slug": "rse-yum-repository-0-0-5",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 128,
-    "timeDay": 284,
-    "timeWeek": 195,
+    "timeDay": 283,
+    "timeWeek": 196,
     "timeMonth": 208,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-02-03": 1,
+      "2026-02-03": 17,
       "2025-11-18": 127
     }
   }
