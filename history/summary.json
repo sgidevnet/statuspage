@@ -6,14 +6,14 @@
     "slug": "sgug-forums",
     "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "95.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "95.12%",
     "time": 572,
-    "timeDay": 508,
-    "timeWeek": 560,
-    "timeMonth": 526,
+    "timeDay": 464,
+    "timeWeek": 557,
+    "timeMonth": 527,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-09-10": 18,
@@ -47,8 +47,7 @@
       "2026-06-19": 452,
       "2026-06-18": 34,
       "2026-06-27": 41,
-      "2026-07-24": 104,
-      "2026-08-15": 9
+      "2026-07-24": 104
     }
   },
   {
@@ -63,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 468,
-    "timeDay": 386,
-    "timeWeek": 437,
-    "timeMonth": 456,
+    "timeDay": 358,
+    "timeWeek": 426,
+    "timeMonth": 457,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-11-18": 127
@@ -83,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 181,
-    "timeDay": 176,
-    "timeWeek": 206,
-    "timeMonth": 211,
+    "timeDay": 157,
+    "timeWeek": 203,
+    "timeMonth": 212,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-11-18": 127,
