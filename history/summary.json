@@ -4,16 +4,16 @@
     "url": "https://forums.sgi.sh",
     "icon": "https://icons.duckduckgo.com/ip3/forums.sgi.sh.ico",
     "slug": "sgug-forums",
-    "status": "down",
+    "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.33%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "95.31%",
     "time": 561,
-    "timeDay": 461,
-    "timeWeek": 524,
-    "timeMonth": 537,
+    "timeDay": 404,
+    "timeWeek": 518,
+    "timeMonth": 535,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2025-10-09": 543,
@@ -45,7 +45,8 @@
       "2026-06-19": 452,
       "2026-06-18": 34,
       "2026-06-27": 41,
-      "2026-07-24": 104
+      "2026-07-24": 104,
+      "2026-09-27": 81
     }
   },
   {
@@ -60,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 469,
-    "timeDay": 495,
-    "timeWeek": 553,
+    "timeDay": 477,
+    "timeWeek": 547,
     "timeMonth": 577,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -80,8 +81,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 188,
-    "timeDay": 213,
-    "timeWeek": 251,
+    "timeDay": 189,
+    "timeWeek": 253,
     "timeMonth": 267,
     "timeYear": 190,
     "dailyMinutesDown": {
